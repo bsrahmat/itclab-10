@@ -1,2 +1,1 @@
-# itclab-10
-Pemrograman IoT Kontrol
+# Control IoT Programming
